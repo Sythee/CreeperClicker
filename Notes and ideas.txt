@@ -1,0 +1,10 @@
+Dota 2 Incremental game
+
+Clicking on a button[creep] which kills creep(s), in order to gain gold (I.E. killing them)
+Creeps are upgradable
+Regular creeps > Super creeps > Mega creeps > Neutrals > Ancients > Roshan
+More creeps can be bought.
+Buying items increases gold per click !(Considier making creeps like in idle mine, give them HP)!
+Attack modifiers like -Armor (or auras)
+
+Random killable courier pop-ups that give bonus gold or rare shit

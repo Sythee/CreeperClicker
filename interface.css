@@ -1,0 +1,32 @@
+/*
+#gold {
+    padding-left: 500px;
+}
+
+*/
+
+#gold-img {
+    margin-left: 500px;
+    margin-top: 250px;
+}
+
+.creep {
+    margin-left:840px;
+    margin-top:192px;
+    }
+    
+.creepbackdrop {
+    margin-left:465;
+    margin-top: 25px;
+}
+
+.blueBG {
+    margin-left: 490;
+    margin-top: 412;
+}
+
+body {
+ background-image:url(BG.png);
+    background-position:center;
+
+    

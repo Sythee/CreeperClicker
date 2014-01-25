@@ -1,0 +1,31 @@
+<hhtml>
+
+    <head>
+        <link rel="stylesheet" type="text/css" href="interface.css" />
+        <link rel="stylesheet" type="text/css" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" />
+    
+        <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+        
+        <body>
+        <script type="text/javascript" src="main.js"></script>
+            
+            <style type="text/css"> 
+                /* Styling the creep image and creep backdrop image */
+                .creep { position:absolute; top: 25px; left: 25px; z-index: 1; } 
+                .creepbackdrop { position:absolute; top: 25px; left: 25px; z-index: 0; }
+                .gold {position:absolute; z-index: 10;} 
+            </style>
+                
+                <img class="creep" src="images/creep.png"   onclick="creepClick(1)" >
+                <img class="creepbackdrop" src="Images/Creep%20backdrop.png"  >
+                
+                <img class="gold" src="Images/gold.png" id="gold-img" width="30" height="30">
+                <span id="current_gold"></span>
+                <img class="blueBG" src="Images/Blue%20BG.png" >
+                
+            
+        </body>
+
+    </head>
+
+</html>
